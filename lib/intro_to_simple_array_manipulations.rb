@@ -58,3 +58,5 @@ def using_delete(array, string)
   using_delete = instructors
 end
 
+def using_delete_at(array, integer)
+  
